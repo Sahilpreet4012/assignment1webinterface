@@ -1,0 +1,25 @@
+.header
+{
+    background-color: lightgrey;
+    
+}
+.footer
+{
+    background-color: lightgrey;
+}
+.header img
+{
+    width: 9%;
+    height: 13%;
+    margin-left: 80%;
+    margin-bottom: 3%;
+}
+.header h1
+{
+    font-size: 300%;
+    margin-left: 12%;
+}
+.footer p
+{
+    margin-left: 45%;
+}
